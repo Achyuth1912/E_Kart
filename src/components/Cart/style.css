@@ -1,0 +1,48 @@
+.items {
+    margin: 0;
+    padding: 0;
+}
+.items li {
+    list-style: none;
+}
+.count {
+    padding: 5px 10px;
+    border: 1px solid #cccc;
+    left:200px;
+   
+}
+
+.Qleftt {
+    margin-left: 300px;
+}
+
+.Pleftt {
+    padding-left: 350px;
+    
+}
+
+.add-one,
+.remove-one {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    background: #fff;
+    
+    
+}
+.add-one {
+    border-left: none;
+    margin-right: 300px;
+    
+}
+.remove-one {
+    border-right: none;
+}
+.total-amount {
+    float: right;
+    margin-right: 50px;
+    
+}
+.loading-text {
+    margin-top: 30px;
+    text-align: center;
+}
